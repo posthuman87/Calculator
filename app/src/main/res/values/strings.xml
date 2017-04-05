@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="other_operation">Уже задана другая операция</string>
+    <string name="limit_before">Ограничение разрядности = 8</string>
+    <string name="limit_after">Ограничение знаков после запятой = 2</string>
+    <string name="degree_overflow">Ошибка: переполнение разрядности.</string>
+    <string name="no_operation">Операция не задана</string>
+</resources>
